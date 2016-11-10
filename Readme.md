@@ -1,1 +1,1 @@
-This is a sample helloworl code for openshift demo
+This is a sample helloworld code for openshift demo
